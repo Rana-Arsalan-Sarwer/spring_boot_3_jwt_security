@@ -9,7 +9,7 @@ public class JwtApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(JwtApplication.class, args);
-		System.out.println("=================== early trial list backend ===================");
+		System.out.println("=================== jwt security ===================");
 	}
 
 }
